@@ -1,12 +1,12 @@
 $rg-width: 960px;
 $rg-font-size: 16px;
-$rg-spacing: 0 5px 10px 20px 40px 60px;
+$rg-spacing: 0 4px 8px 16px 32px 64px;
 
 // Components
 // -----------------------------------------------------------------
 
-@import "nib-styles-fractional-widths/index";
-@import "nib-styles-spacing-classes/index";
+@import "michaeltroy-fractional-widths/index";
+@import "michaeltroy-spacing-classes/index";
 
 // Grid Framework
 // -----------------------------------------------------------------
