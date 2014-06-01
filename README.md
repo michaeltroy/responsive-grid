@@ -145,7 +145,7 @@ The spacing classes are used to add padding and margin at different breakpoints.
 
 There are two types of spacing classes - margin and padding. Then spacing can be applied on all sides, top, left, bottom, right, horizontally (left and right) and vertically (top and bottom). 
 
-They can then be multiple sizes: `0px, 5px, 10px, 20px, 40px, 60px`.
+They can then be multiple sizes: `0px, 4px, 8px, 16px, 32px, 64px`.
 
 Finally, they can be applied at specific breakpoints.
 
